@@ -1,0 +1,135 @@
+body {
+  background: linear-gradient(to bottom, #ffffff, #002436)
+}
+
+div {
+  margin: auto;
+  width: 960px;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Homemade Apple', cursive;
+  background-color: white;
+  border: 3px solid #002436;
+color: #002436;
+}
+
+nav{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+a{
+  text-decoration: none;
+  color: #002436
+}
+
+.contact{
+  color: #00689c;
+}
+
+.contact:hover{
+  color: #2ca8e6;
+}
+
+
+li{
+    font-family: Helvetica;
+}
+
+.navlist{
+  display: inline;
+  padding: 10px 15px 10px 15px;
+  background-color: white;
+  border: 3px solid #002436;
+}
+.navlist:hover{
+  background-color: gray;
+}
+
+.navigation {
+  list-style-type: none;
+  padding: 0px;
+  text-align: center;
+}
+
+h2{
+  text-align: center;
+  font-family: 'Caveat Brush', cursive;
+  font-size: 24pt;
+}
+
+h3{
+  font-family: Helvetica;
+  text-align: center;
+}
+
+.about{
+  margin-left: 500px;
+  background-color: white;
+  border: 3px solid black;
+  padding: 20px;
+}
+img {
+  width: 460px;
+  padding: 5px;
+  float: left;
+  border: 3px solid black;
+  background-color: white;
+  margin-right: 12px;
+  margin-bottom: 20px;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+}
+
+p{
+  font-family: Helvetica;
+}
+
+.resumelist {
+  margin-left: 500px;
+  background-color: white;
+  border: 3px solid black;
+  padding: 30px;
+list-style-type: circle;
+}
+
+.actawards {
+  margin-bottom: 200px;
+}
+
+.workphoto{
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+  margin-bottom: 230px;
+}
+
+.notes {
+  float: none;
+  border: none;
+  width: 472px;
+  margin-right: 0px;
+  margin-bottom: 0px;
+  padding: 0px;
+  background-color: inherit;
+}
+
+footer {
+  background-color: white;
+  border: 3px solid black;
+  padding: 15px;
+  margin-top: 20px;
+  font-family: 'Caveat Brush', cursive;
+  font-size: 20px;
+  text-align: center;
+}
+.contactedu{
+  margin-top: 200px;
+}
+
+.contactvol{
+  margin-top: 50px;
+}

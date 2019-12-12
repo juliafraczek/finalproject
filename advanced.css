@@ -1,0 +1,107 @@
+body {
+  background-image: url(8_pic1.png);
+}
+
+div {
+  background-color: white;
+  border: 3px solid black;
+  width: 960px;
+  margin: auto;
+}
+
+nav {
+  float: left;
+  margin-left: 20px;
+}
+
+ul {
+  list-style-type: none;
+  font-family: Helvetica;
+  padding: 0px;
+}
+
+li {
+  background-color: red;
+  margin-top: 15px;
+  margin-left: 20px;
+  margin-bottom: 15px;
+  padding: 15px;
+  width: 175px;
+  margin-left: 0px;
+}
+
+li:hover {
+  background-color: #980004;
+}
+
+h1 {
+  color: white;
+  margin-left: 20px;
+  font-weight: normal;
+}
+
+header {
+  margin: 20px 20px 0px 20px;
+  font-family: Helvetica;
+  background-color: black;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+
+h2 {
+  font-family: Helvetica;
+  margin: 10px 0px 20px 0px;
+  padding-bottom: 10px;
+  border-bottom: 3px solid black;
+}
+
+img{
+  float: left;
+  margin-right: 10px;
+  margin-bottom: 0px;
+  padding: 10px;
+  width: 450px;
+  border: 3px solid black;
+}
+
+.boldtext {
+  font-weight: bold;
+text-align: justify;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.links2 {
+  color: red;
+  font-weight: bold;
+}
+
+.links2:hover {
+  color: blue;
+}
+
+main {
+  width: 700px;
+  margin-left: 240px;
+  margin-right: 20px;
+  font-family: Georgia;
+}
+
+.othertext {
+  line-height: 20px;
+  font-size: 15px;
+}
+
+footer {
+  color: white;
+  background-color: red;
+  border-top: 3px solid black;
+  font-family: Verdana;
+  font-style: italic;
+  text-align: center;
+  padding: 10px;
+  font-size: 14px;
+}
